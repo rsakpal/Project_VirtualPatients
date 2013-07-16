@@ -1,0 +1,65 @@
+"1","What is your occupation ? (Do you work outside the home? Please be specific in describing your work).","General","SR"
+"2","Do you have any medical history ? ","Medical History","Could you briefly elaborate on this."
+"3","Have you observed any of the following symptoms recently ? \
+ weight loss, weight gain, fatigue, fever, change in appetite or night sweats ?","Medical History","How long have you observed it and any other details ?"
+"4","Have you observed any of the following symptoms related to skin recently ? \
+ rashes, lumps, itching, dryness, color change, hair or nail change","Medical History","How long have you observed it and any other details ?"
+"5","Have you observed any of the following symptoms recently ? \
+ headaches, dizziness, head injuries","Medical History","How long have you observed it and how painful ?"
+"6","Have you observed any of the following symptoms related to your eyes recently ? \
+ double vision, redness in eyes, pain, glaucoma, cataracts ","Medical History","How long have you observed it and any other details ?"
+"7","Have you observed any of the following symptoms recently ? \
+ frequent colds, nasal stuffiness, hay fever, nosebleeds, sinus trouble, any dust/animal allergies ","Medical History","How long have you observed it and any other details ?"
+"8","Have you observed any of the following symptoms related to mouth or throat recently ? \
+ bleeding gums, frequent sore throats, hoarseness","Medical History","Can you please elaborate"
+"9","Have you observed any hearing loss recently ?","Medical History","Is it mild hearing loss or complete loss of hearing ?"
+"10","Have you observed any lumps or swollen glands in your neck recently ?","Medical History","Does it hurt while eating or swallowing ?"
+"11","Have you observed any of the following respiratory symptoms recently ? \
+ cough, wheezing, shortness of breath, coughing up blood ","Medical History","Please explain in details."
+"12","Have you observed any of the following symptoms recently ? \
+ heart murmur, chest pain, palpitations, swelling in feet or shortness of breath","Medical History","Coud you please elaborate ? Since when are the symptoms observed and any other pain associated with it ?"
+"13","Have you observed any of the following gastrointestinal symptoms recently ? \
+ trouble swallowing, heartburn or gas, nausea, vomiting, rectal bleeding, constipation, diarrhea, abdominal pain, hemorrhoids, skin or whites of eyes turing yellow- jaundice ","Medical History","Please explain briefly about it."
+"14","Have you observed any of the following symptoms recently ? \
+ frequent urination, painful urination, blood in urine, stones, difficulty urinating or difficulty holding urination ","Medical History","Can you explain please ?"
+"15","Have you observed any of the following Musculoskeletal symptoms recently ? \
+ joint stiffness, arthritis, gout, backache, muscle pains, muscle cramps","Medical History","Since when is it prevalent and how painful are they ?"
+"16","Have you observed any of the following symptoms recently ? \
+ fainting, blackouts, seizures, weakness, numbness, tremors, tingling in hands or feet, memory lapses","Medical History","Any other details regarding it ?"
+"17","Have you observed any of the following symptoms recently ? \
+ anxiety, depressions, any phobias, family problems, eating disorder ","Medical History","How long have been feeling this way ?"
+"18","Have you ever been hit, slapped, kicked, or otherwise physically hurt by someone ? ","Medical History","I know this is personal but do you want to elaborate more on it ?"
+"19","Has anyone ever forced you into having any type of sexual activity ?","Medical History","Do you want to discuss this further ?"
+"20","Do you experience any chronic pain ?","Medical History","How is your pain managed any physical therapy or medications ?"
+"21","Are you taking any current medications ?","Medical History","Could you please list down the name of medicines. Please include any non-prescription drugs as well, example vitamins, aspirin, etc."
+"22","Do you have any previous history of Operations and/or Hospitalization ?","Medical History","Please list surgeries and or hospitalization reasons."
+"23","Have you received any of the following vaccines ? \
+ Tetanus, Hepatitis A, Hepatitis B, Pneumo vax","Vaccinations","SR"
+"24","Have you had a blood test for Rubella also known as German Measles ?","Vaccinations","SR"
+"25","How do you identify in terms of sexual orientation ?","Sexual Orientation","SR"
+"26","Have you had sex with ? \
+ Men, Women, Transgendered Men, Transgendered Women","Sexual Orientation","Please write down all that apply."
+"27","When you have sex, do you have ? \
+ Oral Sex, Vaginal Sex, Anal Sex","Sexual Orientation","Please write down all that apply."
+"28","How often do you use condoms when having sex ? ","Sexual Orientation","SR"
+"29","When was the last time you had sex without using a condom ?","Sexual Orientation","SR"
+"30","Do you have a primary sexual partner ?","Sexual Orientation","Do you have any casual sexual partners ? Yes or No"
+"31","Have you ever tested for HIV ?","Sexual Orientation","When and what were the results ?"
+"32","Have you ever had any of the following infections that you have had ? \
+ Syphilis, Gonorrhea, Pelvic Inflammatory Disease, Herpes, Trichomonas, Genital Warts, Yeast Infections, chlamydia, Crabs, Bacterial Vaginosis","Sexual Orientation","Please list them down."
+"33","Do you know or believe that any of your partners have had an HIV or another sexually transmitted infection ?","Sexual Orientation","SR"
+"34","Are you currently taking hormones for gender or sex transitioning purpose ? ","Hormones","What hormones are you taking and how long have you been taking them ?"
+"35","Do you follow a special diet ?","Health Habits"," Please list all the following symptoms that apply: \
+ Vegetarian, Vegan, Low Fat, Low Carb, High Fiber, Calorie Restriction, or Other"
+"36","Have you ever binged, purged, or restricted your food intake ?","Health Habits","Please elaborate on it"
+"37","What type of exercises and/or sports do you engage in ?","Health Habits","SR"
+"38","How many drinks containing alcohol do you have, on average, per week ?","Substance Use","SR"
+"39","Have many cigarettes do you smoke per day ?","Substance Use","SR"
+"40","Do you or have you ever used any of these substances  ? \
+ Marijuana, Cocaine, Crystal Meth, Heroin, Other Opiates, Ecstasy or Mushrooms, LSD, Other","Substance Use","Please list them and How frequently do you use them and Do you smoke them or inject ?"
+"41","Have you observed cough for more than 3 weeks ?","TB","How is the cough ? Is it continuos and Do you observe any blood with the cough ? "
+"42","Have you been feverish for past month or so ?","TB","Have you observed persistent temp elevations ?"
+"43","Have you observed persistent sweating that leaves sheets and bedclothes wet ?","TB","How long has this been going on ?"
+"44","Are you observing any shortness of breath or chest pain ?","TB","Can you explain the pain ?"
+"45","Have you noticed Loss of appetite with unexplained weight loss ? ","TB","Since when are you feeling this way ?"
+"46","Do you feel tired for any reason ? ","TB","Explain how frequently do you get tired and doing what activities ?"

@@ -1,0 +1,24 @@
+PRP$-->your 
+VBG-->itching bleeding wheezing coughing swelling vomiting turning urinating holding fainting tingling eating having taking using transitioning containing observing planning going 
+VBD-->observed kicked received had was binged noticed did 
+VBN-->related swollen been hit slapped hurt anyone forced known tested had transmitted purged restricted used conducted taken 
+VBP-->change do have wet 
+WDT-->that 
+JJ-->outside specific medical following double animal gastrointestinal trouble rectal abdominal yellow painful joint sexual chronic current previous last primary special many average feverish past persistent unexplained tired first birth pregnant gestational 
+WP-->what 
+VBZ-->is nosebleeds whites arthritis has leaves 
+DT-->the any a an another these 
+RP-->up 
+NN-->occupation home please describing work history weight loss gain fatigue appetite night dryness color change hair nail dizziness head vision redness pain glaucoma frequent nasal stuffiness hay fever sinus trouble dust sore hoarseness hearing neck respiratory shortness breath blood heart murmur chest feet swallowing heartburn gas nausea bleeding constipation diarrhea skin jaundice urination urine difficulty stiffness backache muscle weakness numbness memory anxiety family disorder someone type activity vax test orientation sex time condom partner infection gender purpose diet food intake alcohol per week day month sweating reason nipple discharge age period frequency form control estrogen replacement progesterone menopause infertility 
+TO-->to 
+PRP-->you 
+RB-->recently fever ever otherwise physically also often sexually currently so 
+NNS-->symptoms sweats rashes lumps headaches injuries eyes cataracts colds allergies gums throats glands palpitations hemorrhoids stones pains cramps blackouts seizures tremors hands lapses depressions phobias problems medications operations vaccines terms men condoms infections chlamydia partners hormones exercises sports drinks cigarettes substances weeks sheets bedclothes breasts pills times diabetes 
+NNP-->do have musculoskeletal are hospitalization tetanus hepatitis b pneumo rubella german measles women transgendered men oral sex vaginal anal hiv syphilis gonorrhea pelvic inflammatory disease herpes trichomonas genital warts yeast infections crabs bacterial vaginosis marijuana cocaine crystal meth heroin other ecstasy mushrooms lsd loss pap hysterectomy weight gain swelling cramps anxiety depression 
+VB-->work be have skin mouth throat feet experience identify use know believe follow engage do smoke feel get become 
+WRB-->how when 
+CC-->or and 
+CD-->three 
+IN-->in of cough gout by into for as with without that on per than through 
+NNPS-->opiates 
+JJR-->more 

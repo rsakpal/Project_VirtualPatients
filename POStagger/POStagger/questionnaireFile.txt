@@ -1,0 +1,64 @@
+What is your occupation ? 
+Do you work outside the home ? 
+Please be specific in describing your work .
+Do you have any medical history ? 
+Have you observed any of the following symptoms recently - weight loss, weight gain, fatigue, fever, change in appetite or night sweats ?
+Have you observed any of the following symptoms related to skin recently - rashes, lumps, itching, dryness, color change, hair or nail change ?
+Have you observed any of the following symptoms recently - headaches, dizziness, head injuries ?
+Have you observed any of the following symptoms related to your eyes recently - double vision, redness in eyes, pain, glaucoma, cataracts ?
+Have you observed any of the following symptoms recently - frequent colds, nasal stuffiness, hay fever, nosebleeds, sinus trouble, any dust or animal allergies ?
+Have you observed any of the following symptoms related to mouth or throat recently - bleeding gums, frequent sore throats, hoarseness ?
+Have you observed any hearing loss recently ?
+Have you observed any lumps or swollen glands in your neck recently ?
+Have you observed any of the following respiratory symptoms recently - cough, wheezing, shortness of breath, coughing up blood ?
+Have you observed any of the following symptoms recently - heart murmur, chest pain, palpitations, swelling in feet or shortness of breath ?
+Have you observed any of the following gastrointestinal symptoms recently - trouble swallowing, heartburn or gas, nausea, vomiting, rectal bleeding, constipation, diarrhea, abdominal pain, hemorrhoids, skin or whites of eyes turning yellow - jaundice ?
+Have you observed any of the following symptoms recently - frequent urination, painful urination, blood in urine, stones, difficulty urinating or difficulty holding urination ?
+Have you observed any of the following Musculoskeletal symptoms recently - joint stiffness, arthritis, gout, backache, muscle pains, muscle cramps ?
+Have you observed any of the following symptoms recently - fainting, blackouts, seizures, weakness, numbness, tremors, tingling in hands or feet, memory lapses ?
+Have you observed any of the following symptoms recently - anxiety, depressions, any phobias, family problems, eating disorder ?
+Have you ever been hit, slapped, kicked, or otherwise physically hurt by someone ? 
+Has anyone ever forced you into having any type of sexual activity ?
+Do you experience any chronic pain ?
+Are you taking any current medications ?
+Do you have any previous history of Operations or Hospitalization ?
+Have you received any of the following vaccines - Tetanus, Hepatitis A, Hepatitis B, Pneumo vax ?
+Have you had a blood test for Rubella also known as German Measles ?
+How do you identify in terms of sexual orientation ?
+Have you had sex with - Men, Women, Transgendered Men, Transgendered Women ?
+When you have sex, do you have - Oral Sex, Vaginal Sex, Anal Sex ?
+How often do you use condoms when having sex ? 
+When was the last time you had sex without using a condom ?
+Do you have a primary sexual partner ?
+Have you ever tested for HIV ?
+Have you ever had any of the following infections that you have had - Syphilis, Gonorrhea, Pelvic Inflammatory Disease, Herpes, Trichomonas, Genital Warts, Yeast Infections, chlamydia, Crabs, Bacterial Vaginosis ?
+Do you know or believe that any of your partners have had an HIV or another sexually transmitted infection ?
+Are you currently taking hormones for gender or sex transitioning purpose ? 
+Do you follow a special diet ?
+Have you ever binged, purged, or restricted your food intake ?
+What type of exercises or sports do you engage in ?
+How many drinks containing alcohol do you have on average per week ?
+Have many cigarettes do you smoke per day ?
+Do you or have you ever used any of these substances - Marijuana, Cocaine, Crystal Meth, Heroin, Other Opiates, Ecstasy or Mushrooms, LSD, Other ?
+Have you observed cough for more than three weeks ?
+Have you been feverish for past month or so ?
+Have you observed persistent sweating that leaves sheets and bedclothes wet ?
+Are you observing any shortness of breath or chest pain ?
+Have you noticed Loss of appetite with unexplained weight loss ? 
+Do you feel tired for any reason ? 
+Have you observed any of the following symptoms in your breasts recently - lumps, pain, nipple discharge ?
+What age did you get your first period ?
+Have you ever conducted a PAP test ?
+Have you ever had a Hysterectomy ?
+What is the frequency of your period ?
+Do you experience any of the following symptoms with your period - Headaches, Weight Gain, Swelling, Cramps, Anxiety, Depression, Other ?
+Are you currently using any form of birth control ?
+Have you ever taken birth control pills ?
+Are you currently pregnant or planning to become pregnant ?
+Have you ever taken estrogen replacement ?
+Have you ever taken progesterone replacement ?
+Are you currently going through menopause ?
+How many times have you been pregnant ?
+How many times have you been pregnant ?
+Have you had gestational diabetes ?
+Do you have a history of infertility ?
